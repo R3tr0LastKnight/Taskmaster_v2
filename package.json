@@ -1,5 +1,5 @@
-  {
-  "homepage": "https://github.com/R3tr0LastKnight/Taskmaster_v2.git",
+{
+  "homepage": "https://R3tr0LastKnight.github.io/Taskmaster_v2",
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
   "description": "",
@@ -17,9 +17,9 @@
     "typescript": "3.3.3"
   },
   "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
