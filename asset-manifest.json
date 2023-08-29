@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Taskmaster_v2/static/js/main.75f74014.chunk.js",
-    "main.js.map": "/Taskmaster_v2/static/js/main.75f74014.chunk.js.map",
+    "main.js": "/Taskmaster_v2/static/js/main.da3d6a3e.chunk.js",
+    "main.js.map": "/Taskmaster_v2/static/js/main.da3d6a3e.chunk.js.map",
     "runtime-main.js": "/Taskmaster_v2/static/js/runtime-main.1260a7ca.js",
     "runtime-main.js.map": "/Taskmaster_v2/static/js/runtime-main.1260a7ca.js.map",
     "static/js/2.69b2e571.chunk.js": "/Taskmaster_v2/static/js/2.69b2e571.chunk.js",
     "static/js/2.69b2e571.chunk.js.map": "/Taskmaster_v2/static/js/2.69b2e571.chunk.js.map",
     "index.html": "/Taskmaster_v2/index.html",
-    "precache-manifest.695584869a727ba59a857deccc09e3b4.js": "/Taskmaster_v2/precache-manifest.695584869a727ba59a857deccc09e3b4.js",
+    "precache-manifest.0b72c6bd0d0dd53e23e8e3f070950351.js": "/Taskmaster_v2/precache-manifest.0b72c6bd0d0dd53e23e8e3f070950351.js",
     "service-worker.js": "/Taskmaster_v2/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.1260a7ca.js",
     "static/js/2.69b2e571.chunk.js",
-    "static/js/main.75f74014.chunk.js"
+    "static/js/main.da3d6a3e.chunk.js"
   ]
 }
